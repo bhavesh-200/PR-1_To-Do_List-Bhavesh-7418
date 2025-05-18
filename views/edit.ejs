@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Edit Task</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Edit Task</h1>
+    <form action="/update/<%= todo.id %>" method="POST" class="input-form">
+      <input type="text" name="task" value="<%= todo.task %>" required />
+      <button type="submit">Update</button>
+    </form>
+    <a href="/">← Back to list</a>
+  </div>
+</body>
+</html>
