@@ -65,7 +65,7 @@ node app.js
 
 http://localhost:8001
 
-✨ UI Highlights
+## ✨ UI Highlights
 Clean and modern design
 
 Interactive buttons and form styling
@@ -74,14 +74,14 @@ Hover effects and intuitive layout
 
 Responsive and mobile-friendly
 
-📦 Dependencies
+## 📦 Dependencies
 Express
 
 EJS
 
 Body-parser
 
-💡 Future Improvements
+## 💡 Future Improvements
 ✅ Add database support (e.g., MongoDB)
 
 📆 Task due dates and priority levels
@@ -90,13 +90,13 @@ Body-parser
 
 🔐 User authentication
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 Made with ❤️ using Node.js and EJS.
 
-📬 Contact
+## 📬 Contact
 Feel free to connect with me on:
 
 GitHub: @bhavesh-200
